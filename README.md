@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-order-summary-card](https://www.frontendmentor.io/solutions/responsive-order-summary-card-XxX9-S5dw)
 - Live Site URL: [http://fanreza.me/Front-End-Mentor-Challange-Order-Summary/](http://fanreza.me/Front-End-Mentor-Challange-Order-Summary/)
 
 ## My process
